@@ -4,7 +4,7 @@
 
 - :construction: I'm currently working on something to manage my wine cellar :wink: (coming soon)
 - :seedling: I’m currently learning everything 🤣
-- :zap: Fun fact: Apple lover :green_apple: (the fruit what else :wink:)
+- :zap: Fun fact: I'am an apple lover :green_apple: (the fruit what else :wink:)
 
 ### Connect with me :
 
