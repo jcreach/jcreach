@@ -31,7 +31,8 @@
 <details>
   <summary>:open_book: GitHub Stats</summary>
 
-  <img align="left" alt="jcreach's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jcreach&show_icons=true&hide_border=true" />
+  [![jcreach's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcreach)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
